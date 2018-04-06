@@ -1,0 +1,10 @@
+img {
+   margin: opx;
+	transform: rotate(360deg);
+  animation-iteration-count:infinite;
+  animation-name: spin;
+}
+
+.img:spin {
+	margin: 50px;
+}
