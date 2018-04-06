@@ -1,3 +1,9 @@
 img {
+	margin: 0px;
+	transit-duration: 1s;
+	transit-timing-function: ease-in;
+}
+
+.img:hover {
 	margin: 50px;
 }
